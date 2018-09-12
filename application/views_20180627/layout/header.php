@@ -1,1 +1,0 @@
-<div class="login-logo"><a href='<?php echo WP_SITE_URL; ?>'><img width="176" height="52"  alt="" src="<?php echo ASSETS_URL; ?>images/logo-bettermynd-left.png"/></a></div>
