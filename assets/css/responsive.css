@@ -1,0 +1,42 @@
+// responsive css
+
+@media (min-width: 787px) {
+
+}
+
+@media (max-width: 767px) {
+    .larg-log{
+        width:100px;
+
+    }
+    .btn-header.dropdown .dropdown-menu{
+        position: absolute !important;
+        left: -18px;
+    }
+    .header .dropdown-menu {
+        width: 144px;
+        margin-top: 9px;
+        left: 10px;
+    }
+    h2.proud-head{
+        font-size: 20px !important;
+    }
+    .font18, .help-desk p{
+        font-size: 16px !important;
+    }
+    .item-cell p{
+        min-height: 80px !important;
+    }
+    .help-desk h3 {
+        font-size: 25px !important;
+    }
+    .btn-getstared{
+        font-size: 18px !important;
+    }
+    .page-header .title{
+        font-size: 28px !important;
+    }
+    .login_body #wrapper{
+        max-width: 95% !important;
+    }
+}

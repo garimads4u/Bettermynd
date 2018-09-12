@@ -1,0 +1,102 @@
+span.hide-native-select {
+	position: relative;
+	width:100%;
+	clear:both;
+	display:block
+}
+span.hide-native-select .btn-group{ width:100%; float:left;}
+span.hide-native-select select {
+	border: 0!important;
+	clip: rect(0 0 0 0)!important;
+	height: 1px!important;
+	margin: -1px -1px -1px -3px!important;
+	overflow: hidden!important;
+	padding: 0!important;
+	position: absolute!important;
+	width: 1px!important;
+	left: 50%;
+	top: 30px
+}
+.multiselect-container {
+	position: absolute;
+	list-style-type: none;
+	margin: 0;
+	padding: 0
+}
+.multiselect-container .input-group {
+	margin: 5px
+}
+.multiselect-container>li {
+	padding: 0
+}
+.multiselect-container>li>a.multiselect-all label {
+	font-weight: 700
+}
+.multiselect-container>li.multiselect-group label {
+	margin: 0;
+	padding: 3px 20px 3px 20px;
+	height: 100%;
+	font-weight: 700
+}
+.multiselect-container>li.multiselect-group-clickable label {
+	cursor: pointer
+}
+.multiselect-container>li>a {
+	padding: 0
+}
+.multiselect-container>li>a>label {
+	margin: 0;
+	height: 100%;
+	cursor: pointer;
+	font-weight: 400;
+	padding: 3px 20px 3px 32px;
+	font-size: 14px;
+	font-family: MYRIADPROREGULAR, Roboto, Arial, sans-serif;
+}
+.multiselect-container>li>a>label.radio, .multiselect-container>li>a>label.checkbox {
+	margin: 0;
+	word-break: break-word;
+}
+.multiselect-container>li>a>label>input[type=checkbox] {
+	margin-bottom: 5px
+}
+.btn-group>.btn-group:nth-child(2)>.multiselect.btn {
+	border-top-left-radius: 2px;
+	border-bottom-left-radius: 2px;
+	display:block;
+	font-size: 14px;
+	font-family: MYRIADPROREGULAR, Roboto, Arial, sans-serif;
+	text-align:left
+}
+.form-inline .multiselect-container label.checkbox, .form-inline .multiselect-container label.radio {
+	padding: 3px 20px 3px 35px;
+}
+.form-inline .multiselect-container li a label.checkbox input[type=checkbox], .form-inline .multiselect-container li a label.radio input[type=radio] {
+	margin-left: -20px;
+	margin-right: 0
+}
+.multiselect-container.dropdown-menu > .active > a label{color:#fff;}
+.btn-group.open .multiselect.dropdown-toggle, .multiselect.btn-default:hover{
+	background:#fff;
+	border:1px solid #E5E7EB
+}
+.multiselect.btn {
+	font-size: 14px;
+	font-family: MYRIADPROREGULAR, Roboto, Arial, sans-serif;
+	letter-spacing: normal;
+	color:#333;
+	width:100%;
+	min-width:120px;
+	text-align:left;
+	padding:10px;
+	border-radius:2px;
+	}
+.multiselect.btn:focus{background:#fff; border:1px solid #CCD0D7	}
+.multiselect-container.dropdown-menu{width:100%;}
+.multiselect-container.dropdown-menu::after{display:none;}
+.multiselect-selected-text{float:left; word-wrap:break-word}
+.multiselect-selected-text+b{float:right;
+color: #999;
+margin-top: 7px;
+}
+.multiselect-container.dropdown-menu>li>a{white-space:normal;}

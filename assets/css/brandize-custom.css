@@ -1,0 +1,36 @@
+.allupercase{
+    text-transform:uppercase !important;
+}
+.cerror{
+    color:red !important;
+    margin-right:2% !important;
+    clear:both;
+    font-size:12px !important;
+}
+.csuccess{
+    color:green !important;
+    margin-right:2% !important;
+    clear:both;
+    font-size:12px !important;
+}
+.label-gray {
+    background-color: #9ba696;
+}
+
+#dragandrophandler:hover{
+    border:5px solid rgba(0,0,0,.2) !important;
+}
+
+.graycolor{
+    background-color:#ebebeb !important;
+}
+
+textarea {
+    resize: none !important;
+}
+.dt-buttons {
+    float:left;
+}
+.menu_section + .menu_section > a {
+    text-decoration: none;
+}

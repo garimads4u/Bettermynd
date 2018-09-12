@@ -1,0 +1,27 @@
+/*.switchery{background-color:#62cb31;border:1px solid #dfdfdf;border-radius:20px;cursor:pointer;display:inline-block;height:20px;position:relative;vertical-align:middle;width:32px;-webkit-box-sizing:content-box;-moz-box-sizing:content-box;box-sizing:content-box}.switchery>small{background:#fff;border-radius:100%;box-shadow:0 1px 3px rgba(0,0,0,0.4);height:20px;position:absolute;top:0;width:20px}*/
+
+
+
+.switchery {
+    background-color:#62cb31;
+    border:1px solid #dfdfdf;
+    border-radius:20px;
+    cursor:pointer;
+    display:inline-block;
+    height:22px;
+    position:relative;
+    vertical-align:middle;
+    width:32px
+}
+.switchery>small {
+    background:#fff;
+    border-radius:100%;
+    box-shadow:0 1px 3px rgba(0, 0, 0, 0.4);
+    height:20px;
+    position:absolute;
+    top:0;
+    width:20px
+}
+.checkedStyle{
+    box-shadow: rgb(68, 153, 217) 0px 0px 0px 16px inset; border-color: rgb(68, 153, 217); transition: border 0.4s, box-shadow 0.4s, background-color 1.2000000000000002s; -webkit-transition: border 0.4s, box-shadow 0.4s, background-color 1.2000000000000002s; background-color: rgb(68, 153, 217);
+}

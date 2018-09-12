@@ -1,0 +1,36 @@
+[27-Jan-2017 12:06:00 Africa/Lagos] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home3/rich/public_html/bettermynd/application/controllers/Patient.php on line 1018
+[27-Jan-2017 12:06:00 Africa/Lagos] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home3/rich/public_html/bettermynd/application/controllers/Patient.php on line 1018
+[27-Jan-2017 12:06:02 Africa/Lagos] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home3/rich/public_html/bettermynd/application/controllers/Patient.php on line 1018
+[27-Jan-2017 12:12:02 Africa/Lagos] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home3/rich/public_html/bettermynd/application/controllers/Patient.php on line 1018
+[27-Jan-2017 12:12:05 Africa/Lagos] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home3/rich/public_html/bettermynd/application/controllers/Patient.php on line 1018
+[27-Jan-2017 12:12:08 Africa/Lagos] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home3/rich/public_html/bettermynd/application/controllers/Patient.php on line 1018
+[27-Jan-2017 12:13:31 Africa/Lagos] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home3/rich/public_html/bettermynd/application/controllers/Patient.php on line 1018
+[27-Jan-2017 12:13:33 Africa/Lagos] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home3/rich/public_html/bettermynd/application/controllers/Patient.php on line 1018
+[20-Feb-2017 11:51:53 Africa/Lagos] PHP Fatal error:  Call to a member function result() on a non-object in /home3/rich/public_html/bettermynd/application/models/Message_model.php on line 22
+[08-Mar-2017 12:54:33 Africa/Lagos] PHP Fatal error:  Call to a member function result_array() on a non-object in /home3/rich/public_html/bettermynd/application/models/Sadmin_model.php on line 606
+[08-Mar-2017 12:54:43 Africa/Lagos] PHP Fatal error:  Call to a member function result_array() on a non-object in /home3/rich/public_html/bettermynd/application/models/Sadmin_model.php on line 606
+[08-Mar-2017 12:55:02 Africa/Lagos] PHP Fatal error:  Call to a member function result_array() on a non-object in /home3/rich/public_html/bettermynd/application/models/Sadmin_model.php on line 606
+[08-Mar-2017 12:57:02 Africa/Lagos] PHP Fatal error:  Call to a member function result_array() on a non-object in /home3/rich/public_html/bettermynd/application/models/Sadmin_model.php on line 606
+[08-Mar-2017 12:57:12 Africa/Lagos] PHP Fatal error:  Call to a member function result_array() on a non-object in /home3/rich/public_html/bettermynd/application/models/Sadmin_model.php on line 606
+[08-Mar-2017 12:58:06 Africa/Lagos] PHP Fatal error:  Call to a member function result_array() on a non-object in /home3/rich/public_html/bettermynd/application/models/Sadmin_model.php on line 606
+[08-Mar-2017 12:58:40 Africa/Lagos] PHP Fatal error:  Call to a member function result_array() on a non-object in /home3/rich/public_html/bettermynd/application/models/Sadmin_model.php on line 606
+[08-Mar-2017 13:01:37 Africa/Lagos] PHP Fatal error:  Call to a member function result_array() on a non-object in /home3/rich/public_html/bettermynd/application/models/Sadmin_model.php on line 606
+[08-Mar-2017 13:02:48 Africa/Lagos] PHP Fatal error:  Call to a member function result_array() on a non-object in /home3/rich/public_html/bettermynd/application/models/Sadmin_model.php on line 606
+[16-Mar-2017 15:21:45 Africa/Lagos] PHP Fatal error:  Call to a member function result_array() on a non-object in /home3/rich/public_html/bettermynd/application/models/Basic_model.php on line 313
+[30-Mar-2017 14:14:05 Africa/Lagos] PHP Parse error:  syntax error, unexpected '}' in /home3/rich/public_html/bettermynd/application/views/provider/update_schedule.php on line 1
+[30-Mar-2017 14:14:06 Africa/Lagos] PHP Parse error:  syntax error, unexpected '}' in /home3/rich/public_html/bettermynd/application/views/provider/update_schedule.php on line 1
+[30-Mar-2017 14:14:07 Africa/Lagos] PHP Parse error:  syntax error, unexpected '}' in /home3/rich/public_html/bettermynd/application/views/provider/update_schedule.php on line 1
+[30-Mar-2017 14:14:07 Africa/Lagos] PHP Parse error:  syntax error, unexpected '}' in /home3/rich/public_html/bettermynd/application/views/provider/update_schedule.php on line 1
+[30-Mar-2017 14:14:08 Africa/Lagos] PHP Parse error:  syntax error, unexpected '}' in /home3/rich/public_html/bettermynd/application/views/provider/update_schedule.php on line 1
+[30-Mar-2017 14:14:08 Africa/Lagos] PHP Parse error:  syntax error, unexpected '}' in /home3/rich/public_html/bettermynd/application/views/provider/update_schedule.php on line 1
+[30-Mar-2017 14:14:08 Africa/Lagos] PHP Parse error:  syntax error, unexpected '}' in /home3/rich/public_html/bettermynd/application/views/provider/update_schedule.php on line 1
+[30-Mar-2017 14:14:13 Africa/Lagos] PHP Parse error:  syntax error, unexpected '}' in /home3/rich/public_html/bettermynd/application/views/provider/update_schedule.php on line 1
+[30-Mar-2017 14:14:13 Africa/Lagos] PHP Parse error:  syntax error, unexpected '}' in /home3/rich/public_html/bettermynd/application/views/provider/update_schedule.php on line 1
+[30-Mar-2017 14:14:14 Africa/Lagos] PHP Parse error:  syntax error, unexpected '}' in /home3/rich/public_html/bettermynd/application/views/provider/update_schedule.php on line 1
+[30-Mar-2017 14:14:14 Africa/Lagos] PHP Parse error:  syntax error, unexpected '}' in /home3/rich/public_html/bettermynd/application/views/provider/update_schedule.php on line 1
+[30-Mar-2017 14:14:45 Africa/Lagos] PHP Parse error:  syntax error, unexpected '}' in /home3/rich/public_html/bettermynd/application/views/provider/update_schedule.php on line 1
+[30-Mar-2017 14:14:49 Africa/Lagos] PHP Parse error:  syntax error, unexpected '}' in /home3/rich/public_html/bettermynd/application/views/provider/update_schedule.php on line 1
+[30-Mar-2017 14:14:58 Africa/Lagos] PHP Parse error:  syntax error, unexpected '}' in /home3/rich/public_html/bettermynd/application/views/provider/update_schedule.php on line 1
+[30-Mar-2017 14:14:58 Africa/Lagos] PHP Parse error:  syntax error, unexpected '}' in /home3/rich/public_html/bettermynd/application/views/provider/update_schedule.php on line 1
+[30-Mar-2017 14:14:58 Africa/Lagos] PHP Parse error:  syntax error, unexpected '}' in /home3/rich/public_html/bettermynd/application/views/provider/update_schedule.php on line 1
+[17-Apr-2017 08:42:23 Africa/Lagos] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::get() in /home3/rich/public_html/bettermynd/application/controllers/Provider.php on line 481
